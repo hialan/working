@@ -31,5 +31,4 @@ else
 	else
 		sudo docker attach $NAME
 	fi
-	#sudo docker attach $NAME
 fi
